@@ -1,5 +1,1 @@
-# 日本主義のアウトサイダー達
-
-## 序：日本主義とは何か
-
-日本主義は、近代化の波の中で西洋化に抗う『アウトサイダー』の思想として現れた。...（完全ドラフト）
+$(cat /home/workdir/artifacts/japanism-outsiders-full.md)

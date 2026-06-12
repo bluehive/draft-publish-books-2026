@@ -1,2 +1,3 @@
-# draft-publish-books-2026
-Kindle出版ドラフト集（9月11日目標） - 日本主義・歴史・技術書籍の章ドラフト
+# Draft Publish Books 2026
+
+9月11日Kindle出版目標のドラフト集。Google Drive参照済み。
