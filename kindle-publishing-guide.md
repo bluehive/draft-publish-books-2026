@@ -1,1 +1,25 @@
-$(cat /home/workdir/artifacts/kindle-publishing-guide-full.md)
+# 電子書籍の作り方：Kindle自費出版完全ガイド
+
+## 序：なぜ今Kindleか
+
+低コストで即時出版可能。9月11日目標達成のための実践ガイド。
+
+## 第1章：KDP登録と準備
+
+Amazon KDPアカウント作成、税務情報入力。
+
+## 第2章：原稿・表紙作成術
+
+Google Docsで執筆 → CalibreでEPUB変換。Canvaで表紙作成、Drive画像活用。
+
+## 第3章：フォーマット・アップロード手順
+
+EPUBチェック、KDPプレビュー確認。
+
+## 第4章：マーケティングと収益化
+
+YouTube連動、YPP申請。
+
+## 付録：テンプレート・トラブルシューティング
+
+サンプル目次と常见エラー対応。
