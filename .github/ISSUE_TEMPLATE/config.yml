@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 原稿リポジトリ（mypublish-books）
+    url: https://github.com/bluehive/mypublish-books/issues
+    about: 本文執筆・改稿・レビューはこちらで管理します
