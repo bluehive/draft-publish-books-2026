@@ -100,9 +100,10 @@
 | 章 | 状態 | Drive参照 |
 |----|------|-----------|
 | 第1章 | data_pack 済 | E1 優生報告書 PDF | [`notes/eugenics-history/ch01-data-pack.md`](notes/eugenics-history/ch01-data-pack.md) |
-| 序章・第2章以降 | 目次のみ | 第2章 data_pack 待ち |
+| 第2章 | data_pack 済 | E1 脚注＋年表（本編第2章要追加） | [`notes/eugenics-history/ch02-data-pack.md`](notes/eugenics-history/ch02-data-pack.md) |
+| 序章・第3章以降 | 目次のみ | 戦前史料の追加収集要 |
 | 付録B | 部分完成 | 戦前史料の追加収集要 |
 
 ---
 
-*最終更新: 2026-06-12*
+*最終更新: 2026-06-14*

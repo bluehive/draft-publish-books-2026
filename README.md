@@ -66,11 +66,12 @@ KDP アップロード（9/11目標）
 |------|-----|---------|
 | 日本主義のアウトサイダー達 | 第2章 | [`notes/japanism-outsiders/ch02-data-pack.md`](notes/japanism-outsiders/ch02-data-pack.md) |
 | 優生思想の歴史 | 第1章 | [`notes/eugenics-history/ch01-data-pack.md`](notes/eugenics-history/ch01-data-pack.md) |
+| 優生思想の歴史 | 第2章 | [`notes/eugenics-history/ch02-data-pack.md`](notes/eugenics-history/ch02-data-pack.md) |
 
 ## 次のタスク（優先）
 
 1. `japanism-outsiders` 第2章本文執筆（data_pack → `mypublish-books/manuscript/`）
-2. `eugenics-history` 第2章 data_pack（日本への輸入）
+2. `eugenics-history` 第2章本文執筆（data_pack → 史料裏取り）
 3. `sync-gdrive-pdfs.sh` で PDF ローカルキャッシュ化
 4. `racket-game-of-life.md` — `my-racket/` のコードを章ごとに分割
 

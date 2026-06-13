@@ -76,6 +76,14 @@
 
 **論拠**: 序章 0.1–0.2、第1章 1.1–1.2 の骨子と年表のたたき台。付録B の中核。
 
+**第2章向け脚注（本編第2章本文は PDF 未収録）**
+
+> 日本における「優生思想」の広義用法（障害者排除・殺害・社会排除）  
+> 公衆衛生・社会衛生と優生学の交錯（結核・性病・遺伝性論争）  
+> `第2章Ⅱ1(2) 精神薄弱`／`第2章Ⅰ3(2) 下層階級と人種`／`第2章Ⅱ4(1) 婚姻制限`
+
+**論拠**: 第2章 data_pack [`ch02-data-pack.md`](eugenics-history/ch02-data-pack.md)。本編第2編 PDF の追加収集を推奨。
+
 ---
 
 ### 3. `mypublish-books` 連携（国家主義の系譜）
@@ -220,7 +228,8 @@
 
 1. ~~`japanism-outsiders` 第2章 data_pack~~ → ✅ `notes/japanism-outsiders/ch02-data-pack.md`
 2. ~~`eugenics-history` 第1章 data_pack~~ → ✅ `notes/eugenics-history/ch01-data-pack.md`
-3. 第2章本文執筆（両書籍）
+3. ~~`eugenics-history` 第2章 data_pack~~ → ✅ `notes/eugenics-history/ch02-data-pack.md`
+4. 第2章本文執筆（両書籍）
 4. `~/my-project/scripts/sync-gdrive-pdfs.sh` でローカルキャッシュ化
 5. `大正期におけるベルクソン哲学の受容` は Drive になし → ローカル Trash から復元
 
