@@ -218,10 +218,11 @@
 
 **次アクション**
 
-1. `japanism-outsiders` 第2章 data_pack — J1, J4, J6 を入力
-2. `eugenics-history` 第1章 data_pack — E1 を入力
-3. `~/my-project/scripts/sync-gdrive-pdfs.sh` でローカルキャッシュ化（FUSE 遅延回避）
-4. `大正期におけるベルクソン哲学の受容` は Drive になし → ローカル Trash から復元または再取得
+1. ~~`japanism-outsiders` 第2章 data_pack~~ → ✅ `notes/japanism-outsiders/ch02-data-pack.md`
+2. ~~`eugenics-history` 第1章 data_pack~~ → ✅ `notes/eugenics-history/ch01-data-pack.md`
+3. 第2章本文執筆（両書籍）
+4. `~/my-project/scripts/sync-gdrive-pdfs.sh` でローカルキャッシュ化
+5. `大正期におけるベルクソン哲学の受容` は Drive になし → ローカル Trash から復元
 
 ---
 

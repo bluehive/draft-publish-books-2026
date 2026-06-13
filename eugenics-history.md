@@ -99,7 +99,8 @@
 
 | 章 | 状態 | Drive参照 |
 |----|------|-----------|
-| 序章–第2章 | 目次のみ | E1 優生報告書 PDF あり |
+| 第1章 | data_pack 済 | E1 優生報告書 PDF | [`notes/eugenics-history/ch01-data-pack.md`](notes/eugenics-history/ch01-data-pack.md) |
+| 序章・第2章以降 | 目次のみ | 第2章 data_pack 待ち |
 | 付録B | 部分完成 | 戦前史料の追加収集要 |
 
 ---

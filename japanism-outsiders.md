@@ -71,7 +71,7 @@
 |----|------|-----------|------|
 | 序章 | 目次のみ | 文化防衛論PDF ✅ | Drive 確認済 |
 | 第1章 | 目次のみ | ベルクソン・哲学史PDF | 高橋義雄・内村鑑三の史料要確認 |
-| 第2章 | 目次のみ | 西田・小林・廣松PDF ✅ | data_pack 作成待ち |
+| 第2章 | data_pack 済 | 西田・小林・廣松PDF ✅ | [`notes/japanism-outsiders/ch02-data-pack.md`](notes/japanism-outsiders/ch02-data-pack.md) |
 | 第3章 | 目次のみ | 加藤典洋PDF・blog ✅ | data_pack 作成待ち |
 | 第4章 | 目次のみ | | |
 | 終章 | 目次のみ | | |
