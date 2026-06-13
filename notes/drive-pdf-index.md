@@ -230,8 +230,8 @@
 2. ~~`eugenics-history` 第1章 data_pack~~ → ✅ `notes/eugenics-history/ch01-data-pack.md`
 3. ~~`eugenics-history` 第2章 data_pack~~ → ✅ `notes/eugenics-history/ch02-data-pack.md`
 4. 第2章本文執筆（両書籍）
-4. `~/my-project/scripts/sync-gdrive-pdfs.sh` でローカルキャッシュ化
-5. `大正期におけるベルクソン哲学の受容` は Drive になし → ローカル Trash から復元
+5. `~/my-project/scripts/sync-gdrive-pdfs.sh` でローカルキャッシュ化
+6. `大正期におけるベルクソン哲学の受容` は Drive になし → ローカル Trash から復元
 
 ---
 
