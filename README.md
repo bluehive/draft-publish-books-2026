@@ -57,16 +57,16 @@ KDP アップロード（9/11目標）
 
 ## Google Drive PDF インデックス
 
-初回解析（2026-06-13）: [`notes/drive-pdf-index.md`](notes/drive-pdf-index.md)  
-※ Drive 未マウントのためローカル同期済み PDF を走査。優生系・文化防衛論原文は Drive 再走査待ち。
+全量再走査（2026-06-14）: [`notes/drive-pdf-index.md`](notes/drive-pdf-index.md)  
+マウント: `~/GoogleDrive`（`rclone gdrive`）／主要フォルダ: `創作の参照ファイル/`（74 PDF）
 
 ## 次のタスク（優先）
 
-1. Google Drive をマウントし `notes/drive-pdf-index.md` を全量更新
-2. `japanism-outsiders.md` 第2章 — インデックス A–D から data_pack 作成
-3. `eugenics-history.md` 付録B — Drive 優生・人種改良 PDF のインデックス化
+1. `japanism-outsiders.md` 第2章 — 文化防衛論・小林 PDF から data_pack 作成
+2. `eugenics-history.md` 第1章 — `310yuusei_houkokusho` から data_pack 作成
+3. `sync-gdrive-pdfs.sh` で PDF ローカルキャッシュ化（高速参照用）
 4. `racket-game-of-life.md` — `my-racket/` のコードを章ごとに分割
 
 ---
 
-*最終更新: 2026-06-13*
+*最終更新: 2026-06-14*
